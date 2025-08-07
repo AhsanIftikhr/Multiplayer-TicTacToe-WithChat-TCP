@@ -31,3 +31,8 @@ Start the client in the other**
 
 Play the game and use the chat alongside gameplay!
 
+<img width="609" height="742" alt="image" src="https://github.com/user-attachments/assets/c6510675-0a81-4f38-91e3-0c1cb941e9ac" />
+
+<img width="592" height="754" alt="image" src="https://github.com/user-attachments/assets/8939e667-d9ba-4025-852f-8592bebb00f9" />
+
+
